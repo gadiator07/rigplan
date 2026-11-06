@@ -1,0 +1,6 @@
+.claude/
+app/node_modules/
+app/dist/
+app/renderer/
+*.log
+Thumbs.db
